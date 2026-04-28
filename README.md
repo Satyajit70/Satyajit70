@@ -32,24 +32,22 @@ class Satyajit:
     project    = "DriveStat — Telematics & Driver Profiling System"
     languages  = ["Python", "JavaScript"]
     stack      = ["MERN", "Django", "Computer Vision", "ML/AI"]
-    interests  = ["Road Safety", "Telematics", "Explainable AI", "IoT"]
+    interests  = ["Computer Vision", "Explainable AI", "IoT & Edge Devices", "Startup Engineering"]
     learning   = ["Microservices", "Cloud Architecture", "SQL"]
     fun_fact   = "I turn raw sensor data into safer roads 🚗📊"
 ```
 
 ---
 
-## 🚀 Featured Project — DriveStat
+## 🔥 Currently Building — DriveStat
 
-> **DriveStat** is a transparent, AI-powered driver profiling & scoring device built for fleet companies, insurers, and individual drivers.
+> An AI-powered, transparent driver profiling & scoring system
+## 📌 Right Now
 
-| Feature | Details |
-|---|---|
-| 📷 Computer Vision | YOLOv5-based real-time road & driver analysis |
-| 🤖 Explainable AI | Transparent, interpretable driver scoring |
-| 📡 Telematics Hardware | Raspberry Pi edge device |
-| 📱 Companion App | Mobile app + cloud dashboard |
-| 🎯 Target Users | Fleet operators, insurers, rental firms, individual drivers |
+- 🔨 **Building:** DriveStat — telematics + explainable AI driver scoring
+- 📚 **Learning:** Microservices · Cloud Architecture · SQL
+- 🤝 **Open to:** Collaborations · Internships · Freelance Projects
+- 💬 **Ask me about:** Computer Vision · MERN Stack · Django · IoT
 
 ---
 
