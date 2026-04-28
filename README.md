@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d4f6b,50:01696f,100:4f98a3&height=200&section=header&text=Satyajit%20Sutradhar&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Founder%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Telematics%20Researcher&descSize=18&descAlignY=58&descColor=d0edf0" alt="header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=99999&color=01696F&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Satyajit+Sutradhar" alt="Satyajit Sutradhar" />
 
 <!-- Typing animation -->
 <a href="https://github.com/Satyajit70">
