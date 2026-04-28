@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/Satyajit70">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=01696F&center=true&vCenter=true&width=500&lines=Building+DriveStat+%F0%9F%9A%97;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Road+Safety+Innovator+%F0%9F%9B%A3%EF%B8%8F;Based+in+Guwahati%2C+Assam+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=01696F&center=true&vCenter=true&width=500&lines=Building+DriveStat+%F0%9F%9A%97;Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;Telematics+%26+Explainable+AI+Researcher+%F0%9F%94%AC;Always+Learning%2C+Always+Building+%F0%9F%93%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -106,8 +106,7 @@ class Satyajit:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Satyajit70&show_icons=true&theme=transparent&title_color=01696f&icon_color=01696f&text_color=c9d1d9&border_color=21262d&hide_border=false&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit70&theme=transparent&ring=01696f&fire=da7101&currStreakLabel=01696f&sideLabels=c9d1d9&border=21262d" />
-</div>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Satyajit70&theme=transparent&ring=01696f&fire=da7101&currStreakLabel=01696f&sideLabels=c9d1d9&border=21262d" />
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyajit70&layout=compact&theme=transparent&title_color=01696f&text_color=c9d1d9&border_color=21262d&langs_count=8" />
@@ -127,10 +126,10 @@ class Satyajit:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyajitsutradhar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/satyajit-sutradhar-155b77232)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/satyajitsutradhar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajitsutradhar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyajitsutradhar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyajits019@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyajit70)
 
 </div>
 
