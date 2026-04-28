@@ -33,6 +33,7 @@ class Satyajit:
     languages  = ["Python", "JavaScript"]
     stack      = ["MERN", "Django", "Computer Vision", "ML/AI"]
     interests  = ["Computer Vision", "Explainable AI", "IoT & Edge Devices", "Startup Engineering"]
+    hobbies    = ["Guitar 🎸", "Travel 🏔️", "Photography 📸", "Fitness 💪"]
     learning   = ["Microservices", "Cloud Architecture", "SQL"]
     fun_fact   = "I turn raw sensor data into safer roads 🚗📊"
 ```
